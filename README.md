@@ -168,6 +168,6 @@ I am interested in opportunities involving:
 
 ---
 
-# ⭐ Thank You For Visiting
+# ⭐ Thank You For Visiting!
 
 Feel free to explore my projects, connect with me, and follow my journey as I continue growing my skills in data analytics, business intelligence, and cloud technologies.
