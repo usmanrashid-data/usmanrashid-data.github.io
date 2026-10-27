@@ -2,13 +2,13 @@
 
 ## 📊 Aspiring Data Analyst
 
-SQL • Power BI • Tableau • Python • Pandas • Excel • Azure • Microsoft Fabric
+**SQL • Power BI • Tableau • Python • Pandas • Excel • Azure • Microsoft Fabric**
 
 Transforming data into actionable insights through analytics, visualisation, reporting, and business intelligence.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I am an aspiring Data Analyst with a background in sales, customer engagement, and KPI-driven environments.
 
@@ -18,9 +18,9 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 📊 Data Analysis & Visualisation
+## 📊 Data Analysis & Visualisation
 
 * Microsoft Excel
 * Power BI
@@ -30,7 +30,7 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 * Data Storytelling
 * Data Visualisation
 
-### 🗄️ Databases & Querying
+## 🗄️ Databases & Querying
 
 * SQL
 * Relational Databases
@@ -41,7 +41,7 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 * Table JOINs
 * Azure SQL Database
 
-### 🐍 Programming & Analytics
+## 🐍 Programming & Analytics
 
 * Python
 * Pandas
@@ -50,7 +50,7 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 * Data Exploration
 * Data Analysis
 
-### ☁️ Cloud Technologies
+## ☁️ Cloud Technologies
 
 * Microsoft Azure
 * Microsoft Fabric
@@ -67,7 +67,7 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 
 Interactive Power BI dashboards analysing retail and sales performance using Power Query, DAX, KPI cards, slicers, filters, and business intelligence reporting.
 
-🔗 https://github.com/usmanrashid-data/Power-BI-Analysis
+🔗 **https://github.com/usmanrashid-data/Power-BI-Analysis**
 
 ---
 
@@ -75,7 +75,7 @@ Interactive Power BI dashboards analysing retail and sales performance using Pow
 
 Used SQL queries, filtering, sorting, aggregation, and JOIN operations to analyse retail and sales datasets and generate business insights.
 
-🔗 https://github.com/usmanrashid-data/SQL-Data-Analysis
+🔗 **https://github.com/usmanrashid-data/SQL-Data-Analysis**
 
 ---
 
@@ -83,7 +83,7 @@ Used SQL queries, filtering, sorting, aggregation, and JOIN operations to analys
 
 Applied Pandas for data cleaning, transformation, filtering, and exploratory data analysis using Python and Google Colab.
 
-🔗 https://github.com/usmanrashid-data/Python-Pandas
+🔗 **https://github.com/usmanrashid-data/Python-Pandas**
 
 ---
 
@@ -91,7 +91,7 @@ Applied Pandas for data cleaning, transformation, filtering, and exploratory dat
 
 Created interactive Tableau dashboards using maps, charts, filters, calculated fields, and data storytelling techniques.
 
-🔗 https://github.com/usmanrashid-data/Tableau-Data-Analysis
+🔗 **https://github.com/usmanrashid-data/Tableau-Data-Analysis**
 
 ---
 
@@ -99,7 +99,7 @@ Created interactive Tableau dashboards using maps, charts, filters, calculated f
 
 Analysed retail and sales datasets using formulas, PivotTables, data filtering, sorting, categorisation functions, and visualisation techniques.
 
-🔗 https://github.com/usmanrashid-data/Excel-Data-Analysis
+🔗 **https://github.com/usmanrashid-data/Excel-Data-Analysis**
 
 ---
 
@@ -107,7 +107,7 @@ Analysed retail and sales datasets using formulas, PivotTables, data filtering, 
 
 Explored Azure SQL Database, Azure Storage Accounts, Azure Cosmos DB, Microsoft Fabric Lakehouse, Eventstreams, and cloud-based analytical workloads.
 
-🔗 https://github.com/usmanrashid-data/Azure-Data-Fundamentals-DP900
+🔗 **https://github.com/usmanrashid-data/Azure-Data-Fundamentals-DP900**
 
 ---
 
@@ -115,11 +115,13 @@ Explored Azure SQL Database, Azure Storage Accounts, Azure Cosmos DB, Microsoft 
 
 Developed programs using variables, user input, type casting, conditional statements, loops, calculations, and problem-solving techniques.
 
-🔗 https://github.com/usmanrashid-data/Python-Fundamentals
+🔗 **https://github.com/usmanrashid-data/Python-Fundamentals**
 
 ---
 
-## 📚 Currently Expanding My Knowledge In
+# 📚 Professional Development
+
+I am continuously expanding my knowledge in:
 
 * Advanced SQL Techniques
 * Python for Data Analytics
@@ -131,7 +133,7 @@ Developed programs using variables, user input, type casting, conditional statem
 
 ---
 
-## 🎯 Career Interests
+# 🎯 Career Interests
 
 I am interested in opportunities involving:
 
@@ -144,22 +146,26 @@ I am interested in opportunities involving:
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-💼 **LinkedIn**
+### 💼 LinkedIn
 
-https://linkedin.com/in/usman-rashid-4105653a6
+**[View LinkedIn Profile](https://linkedin.com/in/usman-rashid-4105653a6)**
 
-🐙 **GitHub**
+### 🐙 GitHub
 
-https://github.com/usmanrashid-data
+**[Visit My GitHub](https://github.com/usmanrashid-data)**
 
-📧 **Email**
+### 📧 Email
 
-usmanrashid232007@gmail.com
+**[usman.rashid232007@gmail.com](mailto:usman.rashid232007@gmail.com)**
+
+### 🌐 Portfolio Website
+
+**https://usmanrashid-data.github.io**
 
 ---
 
-## ⭐ Thank You For Visiting
+# ⭐ Thank You For Visiting
 
-Feel free to explore my projects, connect with me, and follow my journey as I continue growing my skills within data analytics, business intelligence, and cloud technologies.
+Feel free to explore my projects, connect with me, and follow my journey as I continue developing my skills in data analytics, business intelligence, and cloud technologies.
