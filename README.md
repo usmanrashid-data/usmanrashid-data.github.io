@@ -14,7 +14,9 @@ I am an aspiring Data Analyst with a background in sales, customer engagement, a
 
 My experience analysing customer needs, tracking performance metrics, and working towards business targets sparked my interest in using data to support decision-making and solve business problems.
 
-Through practical projects, I have developed experience using SQL, Excel, Power BI, Tableau, Python, Microsoft Azure, and Microsoft Fabric to analyse data, build dashboards, create reports, and uncover meaningful insights.
+Through practical projects, I have applied SQL, Excel, Power BI, Tableau, Python, Microsoft Azure, and Microsoft Fabric to analyse datasets, build dashboards, develop reports, and uncover meaningful insights.
+
+I enjoy transforming raw data into meaningful information, identifying trends, and presenting findings in a way that supports informed business decisions.
 
 ---
 
@@ -67,7 +69,7 @@ Through practical projects, I have developed experience using SQL, Excel, Power 
 
 Interactive Power BI dashboards analysing retail and sales performance using Power Query, DAX, KPI cards, slicers, filters, and business intelligence reporting.
 
-🔗 **https://github.com/usmanrashid-data/Power-BI-Analysis**
+🔗 https://github.com/usmanrashid-data/Power-BI-Analysis
 
 ---
 
@@ -75,7 +77,7 @@ Interactive Power BI dashboards analysing retail and sales performance using Pow
 
 Used SQL queries, filtering, sorting, aggregation, and JOIN operations to analyse retail and sales datasets and generate business insights.
 
-🔗 **https://github.com/usmanrashid-data/SQL-Data-Analysis**
+🔗 https://github.com/usmanrashid-data/SQL-Data-Analysis
 
 ---
 
@@ -83,7 +85,7 @@ Used SQL queries, filtering, sorting, aggregation, and JOIN operations to analys
 
 Applied Pandas for data cleaning, transformation, filtering, and exploratory data analysis using Python and Google Colab.
 
-🔗 **https://github.com/usmanrashid-data/Python-Pandas**
+🔗 https://github.com/usmanrashid-data/Python-Pandas
 
 ---
 
@@ -91,7 +93,7 @@ Applied Pandas for data cleaning, transformation, filtering, and exploratory dat
 
 Created interactive Tableau dashboards using maps, charts, filters, calculated fields, and data storytelling techniques.
 
-🔗 **https://github.com/usmanrashid-data/Tableau-Data-Analysis**
+🔗 https://github.com/usmanrashid-data/Tableau-Data-Analysis
 
 ---
 
@@ -99,7 +101,7 @@ Created interactive Tableau dashboards using maps, charts, filters, calculated f
 
 Analysed retail and sales datasets using formulas, PivotTables, data filtering, sorting, categorisation functions, and visualisation techniques.
 
-🔗 **https://github.com/usmanrashid-data/Excel-Data-Analysis**
+🔗 https://github.com/usmanrashid-data/Excel-Data-Analysis
 
 ---
 
@@ -107,7 +109,7 @@ Analysed retail and sales datasets using formulas, PivotTables, data filtering, 
 
 Explored Azure SQL Database, Azure Storage Accounts, Azure Cosmos DB, Microsoft Fabric Lakehouse, Eventstreams, and cloud-based analytical workloads.
 
-🔗 **https://github.com/usmanrashid-data/Azure-Data-Fundamentals-DP900**
+🔗 https://github.com/usmanrashid-data/Azure-Data-Analyst
 
 ---
 
@@ -115,7 +117,7 @@ Explored Azure SQL Database, Azure Storage Accounts, Azure Cosmos DB, Microsoft 
 
 Developed programs using variables, user input, type casting, conditional statements, loops, calculations, and problem-solving techniques.
 
-🔗 **https://github.com/usmanrashid-data/Python-Fundamentals**
+🔗 https://github.com/usmanrashid-data/Python-Basics
 
 ---
 
@@ -150,22 +152,22 @@ I am interested in opportunities involving:
 
 ### 💼 LinkedIn
 
-**[View LinkedIn Profile](https://linkedin.com/in/usman-rashid-4105653a6)**
+[View LinkedIn Profile](https://www.linkedin.com/in/usman-rashid-4105653a6)
 
 ### 🐙 GitHub
 
-**[Visit My GitHub](https://github.com/usmanrashid-data)**
+[Visit My GitHub](https://github.com/usmanrashid-data)
 
 ### 📧 Email
 
-**[usman.rashid232007@gmail.com](mailto:usman.rashid232007@gmail.com)**
+[usman.rashid232007@gmail.com](mailto:usman.rashid232007@gmail.com)
 
 ### 🌐 Portfolio Website
 
-**https://usmanrashid-data.github.io**
+[usmanrashid-data.github.io](https://usmanrashid-data.github.io)
 
 ---
 
 # ⭐ Thank You For Visiting
 
-Feel free to explore my projects, connect with me, and follow my journey as I continue developing my skills in data analytics, business intelligence, and cloud technologies.
+Feel free to explore my projects, connect with me, and follow my journey as I continue growing my skills in data analytics, business intelligence, and cloud technologies.
